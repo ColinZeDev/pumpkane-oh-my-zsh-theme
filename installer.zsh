@@ -6,6 +6,7 @@ THEME_URL="https://raw.githubusercontent.com/ColinZeDev/pumpkane-oh-my-zsh-theme
 THEME_PATH="$HOME/.oh-my-zsh/custom/themes/pumpkane.zsh-theme"
 
 function print_header() {
+    clear
     echo "===================================="
     echo "      Pumpkane Zsh Theme CLI        "
     echo "===================================="
