@@ -50,10 +50,10 @@ curl -fsSL https://raw.githubusercontent.com/ColinZeDev/pumpkane-oh-my-zsh-theme
 ZSH_THEME="pumpkane"
 ```
 
-3. **Optional:** Set a custom nickname:
+3. **Optional:** Set a custom nickname (in `~/.zshrc`):
 
 ```bash
-export CUSTOMUSERNICKNAME="Hollo"
+export CUSTOMUSERNICKNAME="Cool nickname"
 ```
 
 4. **Reload Zsh**:
