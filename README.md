@@ -44,7 +44,7 @@ Pumpkane is a modern, colorful, and informative **Oh My Zsh** theme designed for
 curl -fsSL https://raw.githubusercontent.com/ColinZeDev/pumpkane-oh-my-zsh-theme/refs/heads/main/installer.zsh | zsh
 ```
 
-2. **Set the theme** in your `.zshrc`:
+2. **Set the theme** in your `~/.zshrc`:
 
 ```bash
 ZSH_THEME="pumpkane"
