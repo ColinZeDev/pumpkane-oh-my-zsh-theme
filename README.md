@@ -38,10 +38,10 @@ Pumpkane is a modern, colorful, and informative **Oh My Zsh** theme designed for
 
 ## Installation
 
-1. **Copy the theme file** to your Oh My Zsh themes folder:
+1. **Download the theme** to your oh my zsh themes folder:
 
 ```bash
-cp pumpkane.zsh-theme $ZSH_CUSTOM/themes/
+curl -fsSL https://raw.githubusercontent.com/ColinZeDev/pumpkane-oh-my-zsh-theme/refs/heads/main/pumpkane.zsh-theme -o ~/.oh-my-zsh/custom/themes/pumpkane.zsh-theme
 ```
 
 2. **Set the theme** in your `.zshrc`:
@@ -88,7 +88,7 @@ typeset -g LIGHTGREEN="%F{82}"
 ## Example Prompt
 
 ```
-╭─[hollo(H)@myhost || ~/projects]-[14:35:42] @  main ✔ ↑1
+╭─[colin(nickname)@linux || ~/projects]-[14:35:42] @  main ✔ ↑1
 ╰─ %%
 ```
 
