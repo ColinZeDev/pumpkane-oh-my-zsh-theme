@@ -89,7 +89,7 @@ typeset -g LIGHTGREEN="%F{82}"
 
 ```
 ╭─[colin(nickname)@linux || ~/projects]-[14:35:42] @  main ✔ ↑1
-╰─ %%
+╰─ %
 ```
 
 > The symbols and colors may vary depending on terminal support.
