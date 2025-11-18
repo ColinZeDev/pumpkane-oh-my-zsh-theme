@@ -99,7 +99,7 @@ typeset -g LIGHTGREEN="%F{82}"
 ## Screenshots
 
 ![Prompt Example 1](https://raw.githubusercontent.com/ColinZeDev/pumpkane-oh-my-zsh-theme/refs/heads/main/pumpkane-ss1.png)
-![Prompt Example 2]([path/to/screenshot2.png](https://raw.githubusercontent.com/ColinZeDev/pumpkane-oh-my-zsh-theme/refs/heads/main/pumpkane-ss2.png))
+![Prompt Example 2](https://raw.githubusercontent.com/ColinZeDev/pumpkane-oh-my-zsh-theme/refs/heads/main/pumpkane-ss2.png)
 
 ---
 
